@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2023
 
-PSE Labour Chair Seminar (February 10, PSE, Paris, France), Bulgarian Council for Economic Analysis Conference (June 27, Sofia, Bulgaria), French Ministry of Labour Research Seminar (July 4, Paris, France) 
+PSE Labour Chair Seminar (February 10, PSE, Paris, France), Bulgarian Council for Economic Analysis Conference (June 27, Sofia, Bulgaria), French Ministry of Labour Research Seminar (July 4, Paris, France)
 
 ### 2022
 
