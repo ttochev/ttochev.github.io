@@ -3,11 +3,13 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+ 
