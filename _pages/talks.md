@@ -7,3 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+### 2023
+
+French Ministry of Labour Research Seminar (July 4, Paris, France), Bulgarian Council for Economic Analysis Conference (June 27, Sofia, Bulgaria), PSE Labour Chair Seminar (February 10, PSE, Paris, France)
+
+### 2022
+
+PIC Scientific Evaluation Committee (April 6, Paris, France)
+
+### 2019
+
+Field Experiments in Policy Evaluation Workshop (November 21-22, IAB, Nuremberg, Germany)
+
