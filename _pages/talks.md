@@ -19,3 +19,6 @@ PIC Scientific Evaluation Committee (April 6, Paris, France)
 
 Field Experiments in Policy Evaluation Workshop (November 21-22, IAB, Nuremberg, Germany)
 
+### 2018
+
+CREM-SFE Seminar (March 27, University of Rennes, Rennes, France)
