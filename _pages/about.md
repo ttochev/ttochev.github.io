@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website.  
 
-I am an empirical microeconomist specialising in evaluating public policies. Currently, I am a Post-doc at the Paris School of Economics. I obtained my PhD in Economics from the University of Warwick in 2023.
+I am an empirical microeconomist specialising in evaluating public policies. Currently, I am a Post-doctoral Researcher at the Paris School of Economics. I obtained my PhD in Economics from the University of Warwick in 2023.
 
 My main interest is in removing the barriers preventing individuals from benefiting from public policies. One strand of this research focuses on the financial constraints faced by job-seekers wishing to enrol in adult vocational training. A second explores the effectiveness and targeting properties of various interventions in improving the take-up of social benefits by eligible individuals.
 
