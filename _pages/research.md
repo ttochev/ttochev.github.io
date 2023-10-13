@@ -11,7 +11,7 @@ author_profile: true
 
 **Take-up of Social Programs: Experimental Evidence from France** (joint with Laura Castell, Marc Gurgand and Clément Imbert), *R&R at American Economic Journal: Economic Policy*
 
-**Do Localised Lockdowns Cause Labour Market Spillovers?** (joint with Gabriele Guaitoli)
+**Do Localised Lockdowns Cause Labour Market Spillovers?** (joint with Gabriele Guaitoli)  
 *In the media:* [VoxEU Webcast](https://cepr.org/voxeu/vox-webcasts/external-effects-local-lockdowns-evidence-us)
 
 **Returns to Adult Vocational Education for Job-Seekers** (work in progress)
