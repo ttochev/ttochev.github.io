@@ -14,6 +14,6 @@ author_profile: true
 **Do Localised Lockdowns Cause Labour Market Spillovers?** (joint with Gabriele Guaitoli)  <br>
 *In the media:* [VoxEU Webcast](https://cepr.org/voxeu/vox-webcasts/external-effects-local-lockdowns-evidence-us)
 
-**Returns to Adult Vocational Education for Job-Seekers** (work in progress)
+**Returns to Adult Vocational Education for Job-Seekers: Evidence from a Regression Discontinuity Design**
 
-**Distance Learning and Sectoral Employment Programmes** (joint with Audrey Rain) (work in progress)
+**Distance Learning and Sectoral Employment Programmes** (joint with Audrey Rain)
