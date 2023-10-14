@@ -9,9 +9,9 @@ author_profile: true
 
 ### Policy Analysis and Policy Evaluation (Advanced)
 
-2023-2024, Masters, Sciences Po
+2023-2024, Masters, Sciences Po, Paris, France
 
 ### Business Statistics
 
-2019-2020, MSc, Warwick Business School
+2019-2020, MSc, Warwick Business School, Coventry, UK
 
