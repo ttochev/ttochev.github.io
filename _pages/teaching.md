@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Policy Analysis and Policy Evaluation (Advanced)
+### Advanced Policy Analysis and Policy Evaluation
 
 2023-2024, Masters, Sciences Po, Paris, France
 
