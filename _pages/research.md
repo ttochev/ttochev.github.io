@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Credit Constraints and Training Grants for Job-Seekers: Evidence fom France**
+**Credit Constraints and Training Subsidies for Job-Seekers: Evidence fom France**
 
 **Take-up of Social Programs: Experimental Evidence from France** (joint with Laura Castell, Marc Gurgand and Clément Imbert), *R&R at American Economic Journal: Economic Policy*
 
