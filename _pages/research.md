@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**[Credit Constraints and Training Subsidies for Job-Seekers: Evidence fom France](/files/Tochev_2023_Credit_Constraints_Training.pdf)**
+**Credit Constraints and Training Subsidies for Job-Seekers: Evidence fom France**
 
 **[Take-up of Social Programs: Experimental Evidence from France](/files/20221216_CGIT.pdf)** (joint with Laura Castell, Marc Gurgand and Clément Imbert), *R&R at American Economic Journal: Economic Policy*
 
