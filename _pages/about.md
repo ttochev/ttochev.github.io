@@ -16,3 +16,5 @@ My main interest is in studying the barriers that prevent individuals from benef
 
 I am also interested in the labour market spillovers of local government restrictions during the Covid-19 pandemic.
 
+You can find my research [here](/research/), and my CV [here](/files/Todor_Tochev_CV.pdf).
+
