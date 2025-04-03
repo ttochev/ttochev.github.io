@@ -9,7 +9,7 @@ author_profile: true
 
 Credit Constraints and Training Subsidies for Job-Seekers: Evidence fom France
 
-**[Take-up of Social Programs: Experimental Evidence from France](/files/20240625_CGIT.pdf)** (joint with Laura Castell, Marc Gurgand and Clément Imbert), *Conditionally accepted at American Economic Journal: Economic Policy*
+**[Take-up of Social Programs: Experimental Evidence from France](/files/20240625_CGIT.pdf)** (joint with Laura Castell, Marc Gurgand and Clément Imbert), *Forthcoming at American Economic Journal: Economic Policy*
 
 **Le recours aux pensions d'invalidité selon les revenus en début de carrière** (joint with Anam Mohammad, Delphine Roy and Maxime Tô), *R&R at Economie et Statistique*
 
