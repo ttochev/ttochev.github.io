@@ -9,7 +9,7 @@ author_profile: true
 
 ## Published work
 
-**[Take-up of Social Programs: Experimental Evidence from France](https://www.aeaweb.org/articles?id=10.1257/pol.20220786)** (joint with Laura Castell, Marc Gurgand and Clément Imbert), *American Economic Journal: Economic Policy*
+**[Take-up of Social Programs: Experimental Evidence from France](https://www.aeaweb.org/articles?id=10.1257/pol.20220786)** (joint with Laura Castell, Marc Gurgand and Clément Imbert), *American Economic Journal: Economic Policy (2025), 17(4), pp. 1–29.*
 
 ## Accepted and Forthcoming Papers
 
